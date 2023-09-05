@@ -65,6 +65,11 @@ p {
 	-webkit-text-fill-color: #4694e6;
 	background: none;
 }
+.color-font-ornge {
+  color: #fc6729;
+  -webkit-text-fill-color: #fc6729;
+  background: none;
+}
 .color-gradient {
     background: -webkit-gradient(linear, left top, right top, from(#12c2e9), color-stop(#c471ed), to(#fc6729));
     background: -webkit-linear-gradient(left, #12c2e9, #c471ed, #fc6729);
