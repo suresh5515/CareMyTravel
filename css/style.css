@@ -7928,9 +7928,9 @@ footer .item .copy-right p a {
   background-color: #ddd !important;
   font-weight: 700;
 }
-/*.navbar .navbar-nav .nav-item:nth-child(5) {
+.navbar .navbar-nav .nav-item:nth-child(6) {
   display: none;
-}*/
+}
 /* ====================== [ Start Responsive ] ====================== */
 @media screen and (max-width: 991px) {
   .bg-img {
